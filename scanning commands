@@ -1,0 +1,2 @@
+nmap -sS -sV -O <target ip>
+nmap -sS -sV -O <target ip> -oN nmap_scan_results.txt
